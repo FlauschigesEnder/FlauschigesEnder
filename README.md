@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @FlauschigesEnder
+- 👀 I’m interested in learning new stuff
+- 🌱 I’m currently learning web development and server management
